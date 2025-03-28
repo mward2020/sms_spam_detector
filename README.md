@@ -1,4 +1,4 @@
-# Module 21 Homework Challenge: sms_spam_detector
+# Module 21 Homework Challenge: SMS Spam Detector
 
 App/Code file: sms_text_classification_solution.ipynb
 
